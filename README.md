@@ -109,12 +109,6 @@ My current goals are to:
 
 ---
 
-## GitHub Stats
-
-![Nour-Abbes's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nour-Abbes&show_icons=true&theme=react)
-
----
-
 ## Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-nour--abbes-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/nour-abbes)
