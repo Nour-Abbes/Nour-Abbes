@@ -1,14 +1,10 @@
 # Hi, I'm Nour Abbes
 
-Final-year Computer Science student at **ISAMM** (Tunisia), looking for a **PFE internship (2027)** in full-stack or backend development.
+Final-year Computer Science student at **ISAMM** (Tunisia), looking for a **PFE internship (2027)**, mainly in full-stack or backend development.
 
-- **Full-stack developer intern at Drivago** (summer 2026) — worked on a production web platform in a Scrum team (four two-week sprints):
-  - built new Angular components to adapt the platform for the Turkish market, deployed to production;
-  - worked on the platform's internationalization and right-to-left (RTL) layout;
-  - handled Jira tickets end to end — implementation, testing, debugging — for new features and bug fixes, with some PostgreSQL tasks;
-  - opened pull requests and reviewed teammates' code.
+- **Full-stack developer intern at Drivago** (summer 2026), working mostly on the Angular frontend of a production platform.
 - **Currently strengthening my backend skills.**
-- **Competitive programming** — 150+ problems solved on Codeforces and LeetCode (C++, Python), and several on-site ACM-style team contests.
+- **Competitive programming** — 150+ problems solved on Codeforces and LeetCode (C++, Python), plus on-site ACM-style team contests.
 
 ## Tech
 
