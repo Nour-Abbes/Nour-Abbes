@@ -3,11 +3,11 @@
 Final-year Computer Science student at **ISAMM** (Tunisia), looking for a **PFE internship (2027)** in full-stack or backend development.
 
 - **Full-stack developer intern at Drivago** (summer 2026) — worked on a production web platform in a Scrum team (four two-week sprints):
-  - internationalization (French, English, Turkish, Arabic) and new Angular components for the Turkish market, deployed to production;
-  - UI improvements with Angular, TypeScript and Sass, including pop-up redesign and RTL layout fixes;
-  - Jira tickets from implementation to testing and debugging (features and bug fixes), with some PostgreSQL tasks;
-  - Git/GitHub workflow with branches, pull requests and code reviews of teammates' work.
-- **Currently focusing on backend development** — Java, Spring Boot, REST API design and PostgreSQL.
+  - built new Angular components to adapt the platform for the Turkish market, deployed to production;
+  - worked on the platform's internationalization and right-to-left (RTL) layout;
+  - handled Jira tickets end to end — implementation, testing, debugging — for new features and bug fixes, with some PostgreSQL tasks;
+  - opened pull requests and reviewed teammates' code.
+- **Currently strengthening my backend skills.**
 - **Competitive programming** — 150+ problems solved on Codeforces and LeetCode (C++, Python), and several on-site ACM-style team contests.
 
 ## Tech
