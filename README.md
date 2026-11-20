@@ -2,7 +2,8 @@
 
 Final-year Computer Science student at **ISAMM**, seeking a **PFE internship in 2027** in full-stack or backend development.
 
-- **Software Engineering Intern, Drivago:** Built features for an Angular/TypeScript production platform, including internationalization across four languages, Arabic RTL support, UI improvements, and backend contributions.
+- **Full-Stack Development Intern, Drivago:** Built features for an Angular/TypeScript production platform, including internationalization across four languages, Arabic RTL support, UI improvements, and backend contributions.
+- **Backend Development:** Currently strengthening my backend skills through RuleFlow, a personal Java/Spring Boot project.
 - **Competitive Programming:** Solved 150+ problems in C++ and Python across Codeforces and LeetCode, and participated in six on-site team competitions.
 
 ## Technical Skills
@@ -27,7 +28,7 @@ Final-year Computer Science student at **ISAMM**, seeking a **PFE internship in 
 |---|---|---|
 | [Nextronix](https://github.com/Nour-Abbes/e-commerce-uni-project) | E-commerce web application developed as a university team project using Scrum | HTML, CSS, JavaScript, PHP, MySQL |
 | [Simple Habit Tracker](https://github.com/Nour-Abbes/Habit-Tracker-App-Uni-project) | Android app for tracking daily habits, with accounts and local SQLite storage | Java, Android, SQLite |
-| [RuleFlow — In Progress](https://github.com/Nour-Abbes/ruleflow) | REST API for purchase requests with a multi-step approval workflow | Java, Spring Boot, PostgreSQL |
+| [RuleFlow — In Progress](https://github.com/Nour-Abbes/ruleflow) | Personal backend project exploring purchase-request approval workflows (early development). | Java, Spring Boot |
 
 ## Find me
 
