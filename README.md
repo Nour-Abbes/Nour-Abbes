@@ -1,14 +1,14 @@
-# Hi, I'm Nour Abbes
+# Nour Abbes
 
-Final-year Computer Science student at **ISAMM** (Tunisia), looking for a **PFE internship (2027)**, mainly in full-stack or backend development.
+Final-year Computer Science student at **ISAMM**, seeking a **PFE internship in 2027** in full-stack or backend development.
 
-- **Full-stack developer intern at Drivago** (summer 2026), working mostly on the Angular frontend of a production platform.
-- **Currently strengthening my backend skills.**
-- **Competitive programming** — 150+ problems solved on Codeforces and LeetCode (C++, Python), plus on-site ACM-style team contests.
+- **Software Engineering Intern, Drivago:** Built features for an Angular/TypeScript production platform, including internationalization across four languages, Arabic RTL support, UI improvements, and backend contributions.
+- **Competitive Programming:** Solved 150+ problems in C++ and Python across Codeforces and LeetCode, and participated in six on-site team competitions.
 
-## Tech
+## Technical Skills
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
@@ -21,12 +21,13 @@ Final-year Computer Science student at **ISAMM** (Tunisia), looking for a **PFE 
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
-## Projects
+## Featured Projects
 
 | Project | Description | Stack |
 |---|---|---|
-| [Nextronix](https://github.com/Nour-Abbes/e-commerce-uni-project) | E-commerce web application for electronics — team project built with Scrum | HTML, CSS, JavaScript, PHP, MySQL |
-| [Simple Habit Tracker](https://github.com/Nour-Abbes/Habit-Tracker-App-Uni-project) | Android app to track daily habits, with user accounts and local storage | Java, Android, SQLite |
+| [Nextronix](https://github.com/Nour-Abbes/e-commerce-uni-project) | E-commerce web application developed as a university team project using Scrum | HTML, CSS, JavaScript, PHP, MySQL |
+| [Simple Habit Tracker](https://github.com/Nour-Abbes/Habit-Tracker-App-Uni-project) | Android app for tracking daily habits, with accounts and local SQLite storage | Java, Android, SQLite |
+| [RuleFlow — In Progress](https://github.com/Nour-Abbes/ruleflow) | REST API for purchase requests with a multi-step approval workflow | Java, Spring Boot, PostgreSQL |
 
 ## Find me
 
